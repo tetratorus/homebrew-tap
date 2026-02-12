@@ -1,6 +1,6 @@
 cask "touchfs" do
-  version "1.0.4"
-  sha256 "70194d4f235a90d8d07a7612652996e944e8c4ba0dfd6fc54070cb34ceeb7e0f"
+  version "1.0.5"
+  sha256 "2203c26e87253131b626d10334a4140980cfa6a1acd4f0eac1632d3f73db39ff"
 
   url "https://github.com/tetratorus/touchfs/releases/download/v#{version}/touchfs.zip"
   name "touchfs"
